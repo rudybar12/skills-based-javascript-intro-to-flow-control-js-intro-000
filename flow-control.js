@@ -54,6 +54,6 @@ break;
     break;
 
     default:
-    return "You are have an age";
+    return "You have an age";
   }
 }
